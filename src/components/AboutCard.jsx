@@ -35,13 +35,14 @@ export default function AboutCard() {
           )}
         </p>
       </div>
-      <div className="absolute top-0 right-0 h-full w-8/12 md:w-4/12">
+      {/* Ocultar la imagen en dispositivos móviles */}
+      <div className="hidden md:block absolute top-0 right-0 h-full w-8/12 md:w-4/12">
         <Image
           src={me}
           alt=""
-          layout="fill"
-          objectFit="cover"
-          objectPosition="right"
+          layout="responsive"
+          width={512} // Adjust the width as needed
+          height={512} // Adjust the height as needed
           className="rounded-l-3xl md:rounded-r-none"
           draggable="false"
           placeholder="blur"
