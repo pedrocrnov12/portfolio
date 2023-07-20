@@ -67,7 +67,7 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>{`Orlando Mina | ${t("projects.title")}`}</title>
+        <title>{`Pedro Cruz | ${t("projects.title")}`}</title>
       </Head>
       <div className="hidden">
         <LanguagueCard />
@@ -91,7 +91,7 @@ export default function Projects() {
               src={me}
               className="w-1/2 md:w-48"
               draggable="false"
-              alt="Orlando Mina"
+              alt="pedro cruz"
             />
           </div>
           <div className="col-span-3 md:col-span-4 bg-[#1c053a9c] dark:bg-[#af72ff56] h-16 rounded-3xl overflow-y-hidden relative">
