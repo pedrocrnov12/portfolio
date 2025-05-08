@@ -304,7 +304,7 @@ function Message({
         changeLanguage(query, JSON.parse(args).language);
         break;
       case "goToProjects":
-        router.push("/projects");
+        router.push("/");
         break;
       default:
         break;

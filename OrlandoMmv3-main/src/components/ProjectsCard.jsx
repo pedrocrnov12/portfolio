@@ -11,7 +11,7 @@ export default function ProjectsCard() {
   const [t, i18n] = useTranslation("global");
   return (
     <Link
-      href="/projects"
+      href="/"
       scroll={false}
       className="relative rounded-3xl col-span-2 md:aspect-auto overflow-hidden hover:scale-[103%] transition duration-500 ease-in-out"
     >
