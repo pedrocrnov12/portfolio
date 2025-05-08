@@ -211,7 +211,7 @@ export default function Chat({ open, setOpen }) {
                 />
               </div>
               <div className="flex flex-col justify-center">
-                <p className="font-bold text-lg">Orlando Mina Clon</p>
+                <p className="font-bold text-lg">Pedro Cruz Clon</p>
                 <div className="flex items-center gap-1">
                   <div
                     className={`w-2 h-2 rounded-full ${

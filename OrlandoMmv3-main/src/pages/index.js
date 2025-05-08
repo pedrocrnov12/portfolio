@@ -34,20 +34,20 @@ export default function Home() {
           content="Orlando is a frontend developer with an interest in UX/UI design. He is an expert in HTML, CSS, JavaScript and React."
         />
         <meta name="googlebot" content="notranslate" />
-        <meta name="author" content="Orlando Mina" />
+        <meta name="author" content="Pedro Cruz" />
         <link rel="author" href="https://orlandomm.me" />
         <meta name="generator" content="Next.js" />
         <meta
           name="keywords"
           content="Next.js,React,JavaScript,Orlando,Mina,Madroñero,Madronero,CSS,HTML,Orloxx,Frontend,Developer,Web,Fullstack,"
         />
-        <meta name="creator" content="Orlando Mina" />
+        <meta name="creator" content="Pedro Cruz" />
         <meta
           name="format-detection"
           content="telephone=no, address=no, email=no"
         />
 
-        <meta property="og:title" content="Orlando Mina | Frontend Developer" />
+        <meta property="og:title" content="Pedro Cruz | Frontend Developer" />
         <meta
           property="og:description"
           content="Orlando is a frontend developer with an interest in UX/UI design. He is an expert in HTML, CSS, JavaScript and React."
@@ -55,7 +55,7 @@ export default function Home() {
         <meta property="og:url" content="https://orlandomm.me/" />
         <meta
           property="og:site_name"
-          content="Orlando Mina, Frontend Developer"
+          content="Pedro Cruz, Frontend Developer"
         />
         <meta property="og:locale" content="es_CO" />
         <meta
@@ -64,13 +64,13 @@ export default function Home() {
         />
         <meta property="og:image:width" content="512" />
         <meta property="og:image:height" content="512" />
-        <meta property="og:image:alt" content="Orlando Mina" />
+        <meta property="og:image:alt" content="Pedro Cruz" />
         <meta property="og:type" content="website" />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@Orloxx23" />
         <meta name="twitter:creator" content="@Orloxx23" />
-        <meta name="twitter:title" content="Orlando Mina | Frontend Developer" />
+        <meta name="twitter:title" content="Pedro Cruz | Frontend Developer" />
         <meta name="twitter:image" content="https://github.com/Orloxx23/OrlandoMmv2/blob/main/src/assets/img/me.png?raw=true" />
       </Head>
       <motion.div

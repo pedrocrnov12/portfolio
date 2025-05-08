@@ -12,7 +12,7 @@ export default function AboutCard() {
       <div className={styles.water}></div>
       <Image
         src={me}
-        alt="Orlando Mina"
+        alt="Pedro Cruz"
         className="absolute bottom-0 -right-1/4 w-8/12 md:h-full md:auto object-cover -z-0 hidden md:flex"
         width="512"
         height="512"
@@ -23,7 +23,7 @@ export default function AboutCard() {
       />
       <div className="h-full md:w-8/12 absolute top-0 left-0 p-4 md:p-8 flex flex-col justify-start  md:justify-end">
         <h1 className="text-3xl md:text-xl lg:text-5xl font-bold text-white mb-4 md:mb-5">
-          👋 {i18n.language === "es" ? "Hola, soy" : "Hi, I'm"} Orlando Mina
+          👋 {i18n.language === "es" ? "Hola, soy" : "Hi, I'm"} Pedro Cruz
         </h1>
         <p className="text-md md:text-lg lg:text-2xl text-white">
           {i18n.language === "es" ? (
